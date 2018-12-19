@@ -29,3 +29,7 @@ body {
   background: green;
   color: white;
 }
+
+#objective {
+  font-size: 35px;
+}

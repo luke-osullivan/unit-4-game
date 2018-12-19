@@ -1,0 +1,31 @@
+body {
+  background: navy;
+  font-size: 14px;
+}
+
+#title-container {
+  background: orangered;
+  color: white;
+  margin-left: 50px;
+}
+
+#directions-container {
+  background: palegoldenrod;
+  color: green;
+  margin-left: 50px;
+}
+
+.card {
+  background: green;
+  color: purple;
+}
+
+#record {
+  background: cyan;
+  color: black;
+}
+
+#total-score {
+  background: green;
+  color: white;
+}
